@@ -1,4 +1,2 @@
-tripmap
-=======
-
-Build itineraries
+# tripmap
+### a Sails application
